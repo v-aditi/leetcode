@@ -1,10 +1,6 @@
 """
-
-QUESTION #917 - REVERSE ONLY LETTERS [PASSED]
+QUESTION #917 - REVERSE ONLY LETTERS
 Difficulty: Easy
-
-Given a string S, return the "reversed" string where all characters that are not a letter stay in the same place, and
-all letters reverse their positions.
 """
 
 # test case 1 - "ab-cd" returns "dc-ba"
