@@ -9,7 +9,6 @@
 - #20: Valid Parentheses
 
 <strong> Questions To-do </strong> <br>
-- #1: Two Sum (Easy)
 - #121: Best Time to Buy and Sell Stock (Easy)
 - #217: Contains Duplications (Easy)
 - #53: Maximum Subarray (Easy)
@@ -26,10 +25,24 @@
 - to improve memory useage, pop the elements from the array when adding to the string
 - '.isalpha()' returns True if alphabet
 
-## 
+## Linked Lists
+### Questions:
+<strong> Easy </strong> <br>
+- #206: Reverse linked list
+
+<strong> Questions To-do </strong> <br>
+- #141: Linked list cycle (Easy)
+- #21: Merge two sorted lists (Easy)
+- #19: Remove nth node from end of list (Medium)
+- #143: Reorder list (Medium)
+- #23: Merge k sorted lists (Hard)
+
+### What I've learnt:
+- O(1) time complexity for inserting and deleting nodes
 
 ## General Notes
 - try to account for edge cases before using recursion to reduce space and time complexity (especially when searching!!)
+- Iteration is faster and has better space complexity than recursion due to Python overheads
 
 
 ## Resources
