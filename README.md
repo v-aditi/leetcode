@@ -15,7 +15,7 @@
 - #152: Maximum Product Subarray (Medium)
 - #238: Product of Array Except Self (Medium)
 - #153: Find Minimum in Rotated Sorted Array (Medium)
-- #33: Search in Rotated Sorted Array (Medium)
+- #33: Search in Rotated Sorted Array (Medium)œ
 - #15: 3Sum (Medium)
 - #11: Container with Most Water (Medium)
 
@@ -29,9 +29,9 @@
 ### Questions:
 <strong> Easy </strong> <br>
 - #206: Reverse linked list
+- #141: Linked list cycle
 
 <strong> Questions To-do </strong> <br>
-- #141: Linked list cycle (Easy)
 - #21: Merge two sorted lists (Easy)
 - #19: Remove nth node from end of list (Medium)
 - #143: Reorder list (Medium)
